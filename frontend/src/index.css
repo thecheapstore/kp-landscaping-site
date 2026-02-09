@@ -118,6 +118,12 @@ code {
 }
 
 .logo-img {
-  height: 50px;
+  height: 65px;
   width: auto;
+}
+.network-logo {
+  display: flex;
+  align-items: center;
+  padding: 0;
+  background: transparent;
 }

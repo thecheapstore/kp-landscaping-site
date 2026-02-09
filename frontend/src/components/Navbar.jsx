@@ -25,7 +25,7 @@ const Navbar = () => {
     <header className="network-header">
       <div className="nav-wrapper">
         <Link to="/" className="network-logo">
-  <img src="/logo.jpg" alt="KP Landscaping Logo" className="logo-img" />
+  <img src="/logo.png" alt="KP Landscaping Logo" className="logo-img" />
 </Link>
 
         {/* Desktop Navigation */}
