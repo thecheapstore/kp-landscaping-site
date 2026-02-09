@@ -118,12 +118,15 @@ code {
 }
 
 .logo-img {
-  height: 65px;
+  height: 80px;
   width: auto;
+  image-rendering: -webkit-optimize-contrast;
+  filter: brightness(1.15) contrast(1.1);
 }
 .network-logo {
   display: flex;
   align-items: center;
-  padding: 0;
-  background: transparent;
+  padding: 6px 10px;
+  background: rgba(255,255,255,0.08);
+  border-radius: 8px;
 }
